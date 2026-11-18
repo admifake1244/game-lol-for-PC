@@ -46,6 +46,8 @@ HOW TO PLAY ON MOBILE:
 3. Delete all the sample code and paste in the new code.
 4. Tap Play (the blue button) to play the game!
 
+Tiếng Việt:
+
 Cảm ơn bạn đã tải xuống!
 gamelol dành cho PC/laptop, còn gamelol2 dành cho thiết bị di động. CÁCH CHƠI TRÊN MÁY TÍNH/LAPTOP (Mac/Windows):
 WINDOWS:
@@ -83,7 +85,6 @@ MAC:
 --- BƯỚC 4: CÀI ĐẶT PYGAME (Dán vào Terminal, nhấn Enter và đợi quá trình hoàn tất) ---
 =>"pip3 install pygame"
 
-Tiếng Việt
 --- BƯỚC 5: CHƠI GAME (Sao chép mã từ gamelol1, dán vào Terminal rồi nhấn Enter) ---
 
 CÁCH CHƠI TRÊN ĐIỆN THOẠI:
