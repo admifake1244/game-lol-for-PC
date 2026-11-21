@@ -41,7 +41,7 @@ MAC:
 --- STEP 5: PLAY GAME (Copy code from gamelol1, paste into Terminal and press Enter) ---
 
 HOW TO PLAY ON MOBILE:
-1. Open the link: https://pythoncompiler.io/pygame-online/
+1. Open the link: https://onecompiler.com/pygame
 2. Copy the code from gamelol2.py or here: https://github.com/admifake1244/game-lol-for-PC/blob/main/gamelol2.py
 3. Delete all the sample code and paste in the new code.
 4. Tap Play (the blue button) to play the game!
@@ -88,7 +88,7 @@ MAC:
 --- BƯỚC 5: CHƠI GAME (Sao chép mã từ gamelol1, dán vào Terminal rồi nhấn Enter) ---
 
 CÁCH CHƠI TRÊN ĐIỆN THOẠI:
-1. Truy cập liên kết: https://pythoncompiler.io/pygame-online/
+1. Truy cập liên kết: https://onecompiler.com/pygame
 2. Sao chép mã từ tệp gamelol2.py hoặc từ đây: https://github.com/admifake1244/game-lol-for-PC/blob/main/gamelol2.py
 3. Xóa toàn bộ mã mẫu và dán mã mới vào.
 4. Nhấn Play (nút màu xanh dương) để chơi trò chơi!
